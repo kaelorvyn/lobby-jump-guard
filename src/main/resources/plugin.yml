@@ -1,0 +1,5 @@
+name: LobbyJumpGuard
+version: 1.0.0
+main: com.kaelorvyn.lobbyjump.LobbyJumpGuardPlugin
+api-version: '1.21'
+description: Prevents double-jump flight toggles while airborne.
